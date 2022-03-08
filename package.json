@@ -16,5 +16,8 @@
     "url": "https://github.com/uniYH/typescript-for-javascript-developer/issues"
   },
   "homepage": "https://github.com/uniYH/typescript-for-javascript-developer#readme",
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "typescript": "^3.7.5"
+  }
 }
